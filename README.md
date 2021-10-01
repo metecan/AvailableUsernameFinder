@@ -23,7 +23,7 @@ Run this code on your terminal
 
 ## Output
 
-![output](https://res.cloudinary.com/soruio/image/upload/v1593930671/output.png)
+![output](https://res.cloudinary.com/allstar/image/upload/v1593930671/output.png)
 
 
 🤩
